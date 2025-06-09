@@ -1,3 +1,3 @@
 # Exemplo
 
-Exemplo de repositório
+Exemplo de repositório feito em sala
