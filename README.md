@@ -1,3 +1,3 @@
 # Exemplo
 
-Exemplo de repositório feito em sala
+Exemplo de repositório feito em sala na aula do dia 09/06/2025
